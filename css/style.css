@@ -1,17 +1,19 @@
-.my_h1 {
-    color: red;
-}
+/* MY Text colors */
 
-.my_h2 {
-    color: red;
+.my_white {
+    color: white;
 }
-
 /* MY BACKGROUND COLORS */
 
+.my_bc_nav_bfooter {
+    background-color: #2C3E50;
+}
+
 .my_green-marine {
-    background-color: #38B495;
+    background-color: #3BBC9C;
 }
 
 .my_dark-blue {
     background-color: #3A546D;
 }
+
