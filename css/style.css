@@ -3,6 +3,7 @@
 .my_white {
     color: white;
 }
+
 /* MY BACKGROUND COLORS */
 
 .my_bc_nav_bfooter {
@@ -17,3 +18,7 @@
     background-color: #3A546D;
 }
 
+.my-lines {
+    width: 80px;
+    height: 3px;
+}
